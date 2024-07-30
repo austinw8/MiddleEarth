@@ -17,3 +17,5 @@ Imports:
     sf,
     usethis,
     devtools
+URL: https://github.com/austinw8/MiddleEarth
+BugReports: https://github.com/austinw8/MiddleEarth/issues
