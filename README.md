@@ -42,6 +42,8 @@ This package contains multiple geographical data sets, including:
 
 -   Wetlands
 
+This package also contains functions to convert miles_to_meters() and meters_to_miles(), as the Middle Earth data is stored in meters.
+
 ## Installation
 
 You can install the development version of MiddleEarth from [GitHub](https://github.com/) with:
